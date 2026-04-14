@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "zackisherewithmace.aternos.me:50774",
     "port": 27586,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
